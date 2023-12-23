@@ -61,10 +61,20 @@ String s = new String(c);
 ***
 
 ![[Pasted image 20231223204126.png]]![[Pasted image 20231223204136.png]]
-## Important to know String methods
+##  📒Must to know String methods
+
 ```Java
-.toLowerCase();
-.toUpperCase();
+.lenght()
+.toLowerCase()
+.toUpperCase()
+.trim() - //removes all the unnecesary spaces, except between words 
+.substring(1, 4) - // trims words from int index to final index 
+.replace('h', 'M') - // replaces char with other char
+.startsWith("www") - // returns boolean (T\F)
+.endsWith(".com") - // similar to ⤴️
+.charAt(int) - // returns char
+.indexOf("ab", 1) - // returns index (ababab ➡️ 2 )
+.lastIndexOf("ab") - // returns index (ababab ➡️ 4 )
 
 ```
 
