@@ -56,3 +56,4 @@ char c[] = {'A','D','O', 'L', 'F'};
 String s = new String(c);
 ```
 
+![[Pasted image 20231223204126.png]]

@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "65ff19a6ca7ad71f",
+        "id": "207b28fb097b154a",
         "type": "tabs",
         "children": [
           {
-            "id": "fff11fab760d9135",
+            "id": "e46cc4fb3edc5984",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Java/Java Roadmap 2023-2024.md"
+                "file": "Java/String operations.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Java Roadmap 2023-2024.md",
+                "file": "Java/String operations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Java Roadmap 2023-2024.md"
+                "file": "Java/String operations.md"
               }
             }
           },
@@ -124,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java Roadmap 2023-2024.md",
+                "file": "Java/String operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,11 +156,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a6e36f74ee0f59ea",
+  "active": "e46cc4fb3edc5984",
   "lastOpenFiles": [
+    "imgs/Pasted image 20231223204126.png",
     "Java/Java Roadmap 2023-2024.md",
-    "Java/Variables, Constants, Types.md",
     "Java/String operations.md",
+    "Java/Variables, Constants, Types.md",
     "Java/Array & ArrayList Loops.md",
     "Java/Exception handling.md",
     "Java/Basic SQL Syntax.md",
