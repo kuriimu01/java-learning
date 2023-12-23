@@ -56,4 +56,16 @@ char c[] = {'A','D','O', 'L', 'F'};
 String s = new String(c);
 ```
 
-![[Pasted image 20231223204126.png]]
+>***Offset here - start index number
+   Count - amount of char's
+***
+
+![[Pasted image 20231223204126.png]]![[Pasted image 20231223204136.png]]
+## Important to know String methods
+```Java
+.toLowerCase();
+.toUpperCase();
+
+```
+
+
