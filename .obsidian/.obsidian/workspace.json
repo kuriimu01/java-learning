@@ -4,21 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b29fa3649eeb39fc",
+        "id": "b0b1a3bfea2a293d",
         "type": "tabs",
         "children": [
           {
-            "id": "c961719410532fcd",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Java/Java Roadmap 2023-2024.md"
-              }
-            }
-          },
-          {
-            "id": "b758f9a52c48ca73",
+            "id": "cf9f46fc12c365ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -66,6 +55,14 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "63ee6f443455165c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ]
@@ -159,7 +156,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b758f9a52c48ca73",
+  "active": "cf9f46fc12c365ea",
   "lastOpenFiles": [
     "Java/Java Roadmap 2023-2024.md",
     "Java/String operations.md",

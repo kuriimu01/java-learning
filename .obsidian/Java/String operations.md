@@ -75,7 +75,9 @@ String s = new String(c);
 .charAt(int) - // returns char
 .indexOf("ab", 1) - // returns index (ababab ➡️ 2 )
 .lastIndexOf("ab") - // returns index (ababab ➡️ 4 )
-
+str1.equals(str2) - // returns boolean T\F
+str1.equalsIgnoreCase(str2) - // returns reversed boolean T\F
+.compareTo() - // same ⤴️
 ```
 
 
