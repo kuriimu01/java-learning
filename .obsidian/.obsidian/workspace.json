@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b0b1a3bfea2a293d",
+        "id": "497233f753247bc6",
         "type": "tabs",
         "children": [
           {
-            "id": "cf9f46fc12c365ea",
+            "id": "bf06fdebd22f99bf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Java/Java CLI and basics.md",
-                "mode": "source",
-                "source": false
+                "file": "Java/Java Roadmap 2023-2024.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Java CLI and basics.md",
+                "file": "Java/Java Roadmap 2023-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Java CLI and basics.md"
+                "file": "Java/Java Roadmap 2023-2024.md"
               }
             }
           },
@@ -126,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java CLI and basics.md",
+                "file": "Java/Java Roadmap 2023-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +154,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "cf9f46fc12c365ea",
+  "active": "bf06fdebd22f99bf",
   "lastOpenFiles": [
     "Java/Java.md",
     "Java/OOP, References, Class, Methods.md",
