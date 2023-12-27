@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/String operations.md",
+                "file": "Java/Java CLI and basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/String operations.md",
+                "file": "Java/Java CLI and basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/String operations.md"
+                "file": "Java/Java CLI and basics.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/String operations.md",
+                "file": "Java/Java CLI and basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,8 +158,10 @@
   },
   "active": "cf9f46fc12c365ea",
   "lastOpenFiles": [
-    "Java/Java Roadmap 2023-2024.md",
+    "Java/Java.md",
+    "Java/OOP, References, Class, Methods.md",
     "Java/String operations.md",
+    "Java/Java Roadmap 2023-2024.md",
     "Untitled.md",
     "imgs/Pasted image 20231223204136.png",
     "imgs/Pasted image 20231223204126.png",
@@ -168,7 +170,6 @@
     "Java/Exception handling.md",
     "Java/Basic SQL Syntax.md",
     "Java/Java CLI and basics.md",
-    "Java/Java.md",
     "imgs/Pasted image 20231223193559.png",
     "Java/Java Start.md",
     "Java/Functions, packages.md",
@@ -177,7 +178,6 @@
     "imgs/Pasted image 20231223141406.png",
     "imgs/Pasted image 20231222200703.png",
     "imgs",
-    "Java/OOP, References, Class, Methods.md",
     "imgs/Pasted image 20231222154554.png",
     "imgs/Pasted image 20231222133529.png",
     "imgs/Pasted image 20231218233211.png",
