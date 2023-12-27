@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "497233f753247bc6",
+        "id": "00220b6961fd5426",
         "type": "tabs",
         "children": [
           {
-            "id": "bf06fdebd22f99bf",
+            "id": "423ab603ece88a98",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Java/Java Roadmap 2023-2024.md"
+                "file": "Java/String operations.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Java Roadmap 2023-2024.md",
+                "file": "Java/String operations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Java Roadmap 2023-2024.md"
+                "file": "Java/String operations.md"
               }
             }
           },
@@ -124,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java Roadmap 2023-2024.md",
+                "file": "Java/String operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,12 +156,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "bf06fdebd22f99bf",
+  "active": "423ab603ece88a98",
   "lastOpenFiles": [
+    "Java/Java Roadmap 2023-2024.md",
     "Java/Java.md",
     "Java/OOP, References, Class, Methods.md",
     "Java/String operations.md",
-    "Java/Java Roadmap 2023-2024.md",
     "Untitled.md",
     "imgs/Pasted image 20231223204136.png",
     "imgs/Pasted image 20231223204126.png",
