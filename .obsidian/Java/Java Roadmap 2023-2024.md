@@ -8,7 +8,8 @@ kanban-plugin: basic
 
 - [x] [[Java CLI and basics]] and basics
 - [x] [[Variables, Constants, Types]] Operators
-- [ ] [[String operations]]
+- [x] [[String operations]]
+- [ ] [[Conditional Statements]]
 - [ ] [[Exception handling]]
 - [ ] [[Array & ArrayList Loops]]
 - [ ] [[Functions, packages]]

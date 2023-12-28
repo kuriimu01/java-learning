@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "aeaeae1f6a361c3d",
+        "id": "5290f0bc65da1359",
         "type": "tabs",
         "children": [
           {
-            "id": "0e91321b32467b8d",
+            "id": "6034d7728bf28537",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/String operations.md",
+                "file": "Java/Conditional Statements.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/String operations.md",
+                "file": "Java/Conditional Statements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/String operations.md"
+                "file": "Java/Conditional Statements.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/String operations.md",
+                "file": "Java/Conditional Statements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,15 +156,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "0e91321b32467b8d",
+  "active": "a6e36f74ee0f59ea",
   "lastOpenFiles": [
+    "Java/Java Roadmap 2023-2024.md",
+    "Java/String operations.md",
+    "Java/Conditional Statements.md",
     "code",
     "Нова папка",
     "imgs/Pasted image 20231228014521.png",
-    "Java/String operations.md",
     "imgs/Pasted image 20231228013907.png",
     "imgs/Pasted image 20231228013830.png",
-    "Java/Java Roadmap 2023-2024.md",
     "Java/Java.md",
     "Java/OOP, References, Class, Methods.md",
     "Untitled.md",

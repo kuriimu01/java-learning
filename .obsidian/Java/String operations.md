@@ -77,11 +77,17 @@ String s = new String(c);
 .lastIndexOf("ab") - // returns index (ababab ➡️ 4 )
 str1.equals(str2) - // returns boolean T\F
 str1.equalsIgnoreCase(str2) - // returns reversed boolean T\F
-.compareTo() - // same ⤴️
+.compareTo() - // returns int value 
 ```
 
 ## 🧑‍💻 .matches()
 
+```Java
+binary - [0,1]+
+octal - [0-7]+
+decimal - [0-9]+
+hexadecimal - [0-9A-F]+
+```
 ![[Pasted image 20231228013830.png|450]]
 
 ![[Pasted image 20231228013907.png|450]]
