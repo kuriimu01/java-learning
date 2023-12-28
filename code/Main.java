@@ -2,12 +2,11 @@ import java.lang.*;
 
 class Main{
     public static void main(String[] args){
-        int a = 1010101021;
-        String s = String.valueOf(a);
-        if (s.matches("[01]+")){
-            System.out.println("binary");
+        String s = "AAAAAAG";
+        if (s.matches("[0-9A-F]+")){
+            System.out.println("hexadecimal");
         }else {
-            System.out.println("not binary");
+            System.out.println("not hexadecimal");
         }
     }
 }
