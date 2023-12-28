@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "00220b6961fd5426",
+        "id": "aeaeae1f6a361c3d",
         "type": "tabs",
         "children": [
           {
-            "id": "423ab603ece88a98",
+            "id": "0e91321b32467b8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -156,12 +156,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "423ab603ece88a98",
+  "active": "0e91321b32467b8d",
   "lastOpenFiles": [
+    "imgs/Pasted image 20231228014521.png",
+    "Java/String operations.md",
+    "imgs/Pasted image 20231228013907.png",
+    "imgs/Pasted image 20231228013830.png",
     "Java/Java Roadmap 2023-2024.md",
     "Java/Java.md",
     "Java/OOP, References, Class, Methods.md",
-    "Java/String operations.md",
     "Untitled.md",
     "imgs/Pasted image 20231223204136.png",
     "imgs/Pasted image 20231223204126.png",
@@ -179,8 +182,6 @@
     "imgs/Pasted image 20231222200703.png",
     "imgs",
     "imgs/Pasted image 20231222154554.png",
-    "imgs/Pasted image 20231222133529.png",
-    "imgs/Pasted image 20231218233211.png",
     "Java/Thread, Routine.md",
     "Java/Interface.md",
     "Java/Pointers.md",

@@ -80,4 +80,11 @@ str1.equalsIgnoreCase(str2) - // returns reversed boolean T\F
 .compareTo() - // same ⤴️
 ```
 
-##
+## 🧑‍💻 .matches()
+
+![[Pasted image 20231228013830.png|450]]
+
+![[Pasted image 20231228013907.png|450]]
+
+![[Pasted image 20231228014521.png|450]]
+
