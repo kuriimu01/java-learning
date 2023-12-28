@@ -2,7 +2,7 @@
 - [x] [[Variables, Constants, Types]] Operators
 - [ ] [[String operations]]
 - [ ] [[Exception handling]]
-- [ ] [[Array & ArrayList Loops]]
+- [ ] [[Array & ArrayList]]
 - [ ] [[Functions, packages]]
 - [ ] [[OOP, References, Class, Methods]]
 - [ ] [[Pointers]]
