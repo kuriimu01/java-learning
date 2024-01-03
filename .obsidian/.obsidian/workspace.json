@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "01c01be2ca4efdd2",
+        "id": "0f99418a639f5ec1",
         "type": "tabs",
         "children": [
           {
-            "id": "16a9802a81a9b19b",
+            "id": "8b0cf3adca492c13",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Java/Java Roadmap 2023-2024.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Java Roadmap 2023-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Java/Java Roadmap 2023-2024.md"
-              }
+              "state": {}
             }
           },
           {
@@ -124,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java Roadmap 2023-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,13 +148,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "16a9802a81a9b19b",
+  "active": "8b0cf3adca492c13",
   "lastOpenFiles": [
-    "Java/Java Roadmap 2023-2024.md",
+    "Java/String operations.md",
     "Java/Loops.md",
+    "Java/Java Roadmap 2023-2024.md",
     "Java/Conditional Statements.md",
     "Java/Array & ArrayList.md",
-    "Java/String operations.md",
     "code",
     "Нова папка",
     "imgs/Pasted image 20231228014521.png",

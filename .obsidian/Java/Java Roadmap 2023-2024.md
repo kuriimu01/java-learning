@@ -21,14 +21,6 @@ kanban-plugin: basic
 - [ ] [[Thread, Routine]]
 
 
-## Gradle/Maven, Library
-
-- [ ] Learn Java dependency management tool
-- [ ] JCommander; airline
-- [ ] semantic versioning
-- [ ] Version, scripts, repository and other Properties
-
-
 ## General Development Skills
 
 - [ ] GIT
@@ -40,6 +32,14 @@ kanban-plugin: basic
 - [ ] Docker\ other
 
 
+## Gradle/Maven, Library
+
+- [ ] Learn Java dependency management tool
+- [ ] JCommander; airline
+- [ ] semantic versioning
+- [ ] Version, scripts, repository and other Properties
+
+
 ## SQL fundamentals
 
 - [ ] [[Basic SQL Syntax]]
@@ -48,10 +48,6 @@ kanban-plugin: basic
 ## https://www.figma.com/file/pkssxjR5ZksSELae2Klf7S/Scheme?type=design&node-id=0-1&mode=design&t=ai4G80mpV6wlvVKV-0
 
 - [ ] [Learn to become a modern Java developer (roadmap.sh)](https://roadmap.sh/java)
-
-
-## Archive
-
 
 
 
