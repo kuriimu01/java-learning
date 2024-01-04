@@ -10,7 +10,7 @@ kanban-plugin: basic
 - [x] [[Variables, Constants, Types]] Operators
 - [x] [[String operations]]
 - [x] [[Conditional Statements]]
-- [ ] [[Loops]]
+- [x] [[Loops]]
 - [ ] [[Array & ArrayList]]
 - [ ] [[Exception handling]]
 - [ ] [[Functions, packages]]

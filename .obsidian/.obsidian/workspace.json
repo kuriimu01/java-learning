@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0f99418a639f5ec1",
+        "id": "019f751bf1889bcd",
         "type": "tabs",
         "children": [
           {
-            "id": "8b0cf3adca492c13",
+            "id": "376ba0d6279b2679",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/String operations.md",
+                "file": "Java/Loops.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/String operations.md",
+                "file": "Java/Loops.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/String operations.md"
+                "file": "Java/Loops.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/String operations.md",
+                "file": "Java/Loops.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,19 +156,20 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8b0cf3adca492c13",
+  "active": "376ba0d6279b2679",
   "lastOpenFiles": [
-    "Java/String operations.md",
-    "Java/Loops.md",
-    "Java/Java Roadmap 2023-2024.md",
-    "Java/Conditional Statements.md",
     "Java/Array & ArrayList.md",
+    "Java/Java Roadmap 2023-2024.md",
+    "Java/Loops.md",
+    "Java/Java CLI and basics.md",
+    "Java/Java.md",
+    "Java/Conditional Statements.md",
+    "Java/String operations.md",
     "code",
     "Нова папка",
     "imgs/Pasted image 20231228014521.png",
     "imgs/Pasted image 20231228013907.png",
     "imgs/Pasted image 20231228013830.png",
-    "Java/Java.md",
     "Java/OOP, References, Class, Methods.md",
     "Untitled.md",
     "imgs/Pasted image 20231223204136.png",
@@ -176,7 +177,6 @@
     "Java/Variables, Constants, Types.md",
     "Java/Exception handling.md",
     "Java/Basic SQL Syntax.md",
-    "Java/Java CLI and basics.md",
     "imgs/Pasted image 20231223193559.png",
     "Java/Java Start.md",
     "Java/Functions, packages.md",

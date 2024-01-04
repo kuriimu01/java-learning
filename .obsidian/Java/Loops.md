@@ -42,3 +42,21 @@ do {
 10
 ```
 ## for each 
+
+```Java
+String[] words = {"hello", "my", "dear", "human"};  
+for (String word: words){  
+    System.out.print(word.toUpperCase() + ' ');  
+}
+```
+
+## Nested loops
+
+```Java
+for (int i = 1; i<=9; i++){  
+    for (int j = 1; j<=9; j++){  
+        System.out.println(i +"*"+j+"= " + (i*j));  
+    }  
+    System.out.print("\n");  
+}
+```
