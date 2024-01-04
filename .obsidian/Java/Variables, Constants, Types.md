@@ -1,4 +1,11 @@
 ![[Pasted image 20231219003903.png|400]]
+## Important to know
+
+```Java
+return Integer.parseInt(str); - //string to int
+return varChar - 'O'; - //char to int (if there is only int)
+return Integer.toString(int); // int to str
+```
 ## Literals
 ```Java
 int value = 25; // Here 25 is a literal with integer type
