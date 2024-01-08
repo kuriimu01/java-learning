@@ -12,6 +12,64 @@ for (int i: arr){
     System.out.println(i);  
 } //Printing an array
 ```
+## Array sort
+   **Auto sort**
+```Java
+String[] words = {"Basa","Dovbik", "Avtobus", "Central"};  
+java.util.Arrays.sort(words);
+```
+
+```Output
+Avtobus Basa Central Dovbik 
+```
+
+   **Bubble sort without recursion**
+```Java
+int[] arr = {11, 2, 32, 1, 23, 44, 6};  
+boolean unsorted = true;  
+int temp;  
+while (unsorted){  
+    unsorted=false;  
+    for (int i = 0; i<arr.length-1;i++) {  
+        if (arr[i]>arr[i+1]){  
+            temp=arr[i];  
+            arr[i]=arr[i+1];  
+            arr[i+1]=temp;  
+            unsorted=true;  
+        }  
+    }  
+}  
+for (int i: arr){  
+    System.out.print(i+" ");  
+}
+```
+   **Bubble with recursion**
+```Java
+import java.util.Arrays;
+
+public class BubbleSort {
+	static void bubbleSort(int[] arrUnsort) {
+		int count = 0;
+		for (int i = 0; i < arrUnsort.length - 1; i++)
+			if (arrUnsort[i] > arrUnsort[i + 1]) {
+				int temp = arrUnsort[i];
+				arrUnsort[i] = arrUnsort[i + 1];
+				arrUnsort[i + 1] = temp;
+				count++;
+			}
+		if (count > 0) {
+			bubbleSort(arrUnsort);
+		}
+	}
+
+	public static void main(String[] args) {
+		int[] myArr = {104, 64, 34, 25, 12, 22, 11, 90};
+		bubbleSort(myArr);
+		System.out.println(Arrays.toString(myArr));
+	}
+}
+
+```
 ## Array Rotating
    **Left rotation**
 ```Java
@@ -100,3 +158,4 @@ String[][] cars =   new String[3][3];
 }
 ```
 
+# ArrayList
