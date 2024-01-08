@@ -6,15 +6,16 @@ kanban-plugin: basic
 
 ## [[Java]]
 
-- [x] [[Java CLI and basics]] and basics
-- [x] [[Variables, Constants, Types]] Operators
+- [x] [[Java CLI and basics]]
+- [x] [[Variables, Constants, Types, Operators]]
 - [x] [[String operations]]
 - [x] [[Conditional Statements]]
 - [x] [[Loops]]
-- [ ] [[Array & ArrayList]]
+- [x] [[Array & ArrayList]]
+- [ ] [[Methods]]
+- [ ] [[OOP, References, Class]]
 - [ ] [[Exception handling]]
 - [ ] [[Functions, packages]]
-- [ ] [[OOP, References, Class, Methods]]
 - [ ] 
 - [ ] [[Pointers]]
 - [ ] [[Interface]]
