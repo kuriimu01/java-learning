@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5a7a6cf9670ea347",
+        "id": "2948df6bad3dcc7b",
         "type": "tabs",
         "children": [
           {
-            "id": "faadcd23febb5d05",
+            "id": "044616475a70adb9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Java/Array & ArrayList.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Java/Array & ArrayList.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Java/Array & ArrayList.md"
+              }
             }
           },
           {
@@ -119,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Java/Array & ArrayList.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,16 +156,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "faadcd23febb5d05",
+  "active": "044616475a70adb9",
   "lastOpenFiles": [
-    "Java/String operations.md",
-    "Java/Loops.md",
     "Java/Java Roadmap 2023-2024.md",
-    "Java/Basic SQL Syntax.md",
     "Java/Array & ArrayList.md",
-    "Java/Variables, Constants, Types.md",
+    "Java/Loops.md",
     "Java/Java CLI and basics.md",
     "Java/Java.md",
+    "Java/Interface.md",
+    "Java/String operations.md",
+    "Java/Basic SQL Syntax.md",
+    "Java/Variables, Constants, Types.md",
     "Java/Conditional Statements.md",
     "code",
     "Нова папка",
@@ -178,7 +187,6 @@
     "imgs/Pasted image 20231222200703.png",
     "imgs",
     "Java/Thread, Routine.md",
-    "Java/Interface.md",
     "Java/Pointers.md",
     "2023-12-18.md",
     "Java"
