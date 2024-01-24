@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9283449cfce0b71b",
+        "id": "8f5d65f48fc12ee2",
         "type": "tabs",
         "children": [
           {
-            "id": "9e9524fe2ad828fc",
+            "id": "d0d286ddfbca3f67",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Java/OOP, References, Class.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Java/OOP, References, Class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Java/OOP, References, Class.md"
+              }
             }
           },
           {
@@ -119,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Java/OOP, References, Class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,17 +156,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "9e9524fe2ad828fc",
+  "active": "d0d286ddfbca3f67",
   "lastOpenFiles": [
-    "Disgaea auto-farm.md",
     "Java/Java Roadmap 2023-2024.md",
-    "Java/Array & ArrayList.md",
     "Java/Methods.md",
+    "Java/Java.md",
+    "Disgaea auto-farm.md",
+    "Java/Array & ArrayList.md",
     "Java/Variables, Constants, Types, Operators.md",
     "Java/OOP, References, Class.md",
     "Java/Loops.md",
     "Java/Java CLI and basics.md",
-    "Java/Java.md",
     "Java/Interface.md",
     "Java/String operations.md",
     "Java/Basic SQL Syntax.md",

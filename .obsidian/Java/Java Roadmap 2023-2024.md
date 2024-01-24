@@ -12,7 +12,7 @@ kanban-plugin: basic
 - [x] [[Conditional Statements]]
 - [x] [[Loops]]
 - [x] [[Array & ArrayList]]
-- [ ] [[Methods]]
+- [x] [[Methods]]
 - [ ] [[OOP, References, Class]]
 - [ ] [[Exception handling]]
 - [ ] [[Functions, packages]]
