@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "38f7e586e7c7ef6b",
+        "id": "9283449cfce0b71b",
         "type": "tabs",
         "children": [
           {
-            "id": "292138021912bc07",
+            "id": "9e9524fe2ad828fc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Methods.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Java/Methods.md"
-              }
+              "state": {}
             }
           },
           {
@@ -126,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,8 +148,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "292138021912bc07",
+  "active": "9e9524fe2ad828fc",
   "lastOpenFiles": [
+    "Disgaea auto-farm.md",
     "Java/Java Roadmap 2023-2024.md",
     "Java/Array & ArrayList.md",
     "Java/Methods.md",
@@ -175,7 +168,6 @@
     "imgs/Pasted image 20231228014521.png",
     "imgs/Pasted image 20231228013907.png",
     "imgs/Pasted image 20231228013830.png",
-    "Untitled.md",
     "imgs/Pasted image 20231223204136.png",
     "imgs/Pasted image 20231223204126.png",
     "Java/Exception handling.md",
