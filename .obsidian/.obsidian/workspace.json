@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8f5d65f48fc12ee2",
+        "id": "573c2e2a4bcadd71",
         "type": "tabs",
         "children": [
           {
-            "id": "d0d286ddfbca3f67",
+            "id": "812201fd526e566a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Java/OOP, References, Class.md",
-                "mode": "source",
-                "source": false
+                "file": "Java/Java Roadmap 2023-2024.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/OOP, References, Class.md",
+                "file": "Java/Java Roadmap 2023-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/OOP, References, Class.md"
+                "file": "Java/Java Roadmap 2023-2024.md"
               }
             }
           },
@@ -126,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/OOP, References, Class.md",
+                "file": "Java/Java Roadmap 2023-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,8 +154,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d0d286ddfbca3f67",
+  "active": "812201fd526e566a",
   "lastOpenFiles": [
+    "imgs/Pasted image 20240130205118.png",
+    "imgs/Pasted image 20240130205112.png",
     "Java/Java Roadmap 2023-2024.md",
     "Java/Methods.md",
     "Java/Java.md",
@@ -185,7 +185,6 @@
     "imgs/Pasted image 20231219003903.png",
     "imgs/Pasted image 20231222154643.png",
     "imgs/Pasted image 20231223141406.png",
-    "imgs/Pasted image 20231222200703.png",
     "imgs",
     "Java/Thread, Routine.md",
     "Java/Pointers.md",
