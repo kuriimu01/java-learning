@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "68615a8c1d4a2558",
+        "id": "68efb8e5b4fefc95",
         "type": "tabs",
         "children": [
           {
-            "id": "ae7dc48d36a46e39",
+            "id": "aeae8612b4120fa7",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Java/Java Roadmap 2023-2024.md"
+                "file": "Java/OOP, References, Class.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 299.5,
+    "collapsed": true
   },
   "right": {
     "id": "d836f8f0dd4240a5",
@@ -83,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Java Roadmap 2023-2024.md",
+                "file": "Java/OOP, References, Class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Java Roadmap 2023-2024.md"
+                "file": "Java/OOP, References, Class.md"
               }
             }
           },
@@ -124,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java Roadmap 2023-2024.md",
+                "file": "Java/OOP, References, Class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,11 +157,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ae7dc48d36a46e39",
+  "active": "aeae8612b4120fa7",
   "lastOpenFiles": [
+    "Java/Java Roadmap 2023-2024.md",
     "Java/Methods.md",
     "Java/Loops.md",
-    "Java/Java Roadmap 2023-2024.md",
     "Java/OOP, References, Class.md",
     "imgs/Pasted image 20240130205118.png",
     "imgs/Pasted image 20240130205112.png",
