@@ -23,11 +23,9 @@
             "id": "c1bf8077973be8e5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Java/Variables, Constants, Types, Operators.md",
-                "mode": "source",
-                "source": false
+                "file": "Java/Java Roadmap 2023-2024.md"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Variables, Constants, Types, Operators.md",
+                "file": "Java/Java Roadmap 2023-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Variables, Constants, Types, Operators.md"
+                "file": "Java/Java Roadmap 2023-2024.md"
               }
             }
           },
@@ -139,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Variables, Constants, Types, Operators.md",
+                "file": "Java/Java Roadmap 2023-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,18 +169,18 @@
   },
   "active": "c1bf8077973be8e5",
   "lastOpenFiles": [
+    "Java/Methods.md",
+    "Java/OOP, References, Class.md",
+    "Java/Variables, Constants, Types, Operators.md",
     "Java/Java Roadmap 2023-2024.md",
     "Java/Java CLI and basics.md",
     "Java/Java.md",
     "Java/Basic libraries.md",
     "Java/Array & ArrayList.md",
-    "Java/OOP, References, Class.md",
-    "Java/Methods.md",
     "Java/Loops.md",
     "imgs/Pasted image 20240130205118.png",
     "imgs/Pasted image 20240130205112.png",
     "Disgaea auto-farm.md",
-    "Java/Variables, Constants, Types, Operators.md",
     "Java/Interface.md",
     "Java/String operations.md",
     "Java/Basic SQL Syntax.md",

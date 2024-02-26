@@ -1,4 +1,13 @@
-### Method overloading
+
+## 🤔 Static vs Non-static (vars and methods)
+> In static you can't just use methods from other classes, you need firstly create an object. Non-static variables cant be accessed from a static methods. 
+```Java
+public class Main {
+	Cat myCat = new Cat();
+	myCat.meow();
+}
+```
+## Method overloading
 ```Java
 int max(int x,int y){
 ///....
@@ -9,7 +18,7 @@ float max(int x,int y){
 max(10,15) - int method
 max(10.f,5.4f) - float method
 ```
-### Multiple arguments
+## Multiple arguments
 
 ```Java
 static void show(int ...A)
