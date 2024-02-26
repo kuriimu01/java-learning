@@ -16,7 +16,6 @@ To support the principles of object-oriented programming, all OOP languages, inc
 >*Inheritance* is the process by which one object can acquire the properties of another object. This is important because it supports the concept of hierarchical classification. If you think about it, most knowledge is made manageable by hierarchical (i.e., top-down) classifications. For example, a Red Delicious apple is part of the classification apple, which in turn is part of the fruit class, which is under the larger class food. That is, the food class possesses certain qualities (edible, nutritious, etc.) which also, logically, apply to its subclass, fruit. In addition to these qualities, the fruit class has specific characteristics (juicy, sweet, etc.) that distinguish it from other food. The apple class defines those qualities specific to an apple (grows on trees, not tropical, etc.). A Red Delicious apple would, in turn, inherit all the qualities of all preceding classes, and would define only those qualities that make it unique. Without the use of hierarchies, each object would have to explicitly define all of its characteristics. Using inheritance, an object need only define those qualities that make it unique within its class. It can inherit its general attributes from its parent. Thus, it is the inheritance mechanism that makes it possible for one object to be a specific instance of a more general case
 ```Java
 inheritance example
-
 public class area{
 	public static void main(String[] args){
 		System.out.println("area");
@@ -24,6 +23,15 @@ public class area{
 } 
 class Main extends area{
 	area();
+}](<class Area{
+    public static void area(){
+        System.out.println("area");
+    }
+}
+class Main extends Area{
+    public static void main(String[] args) {
+        area();
+    }
 }
 
 // It will print the area.
