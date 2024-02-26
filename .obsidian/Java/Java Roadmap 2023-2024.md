@@ -14,7 +14,7 @@ kanban-plugin: basic
 - [x] [[Loops]]
 - [x] [[Array & ArrayList]]
 - [x] [[Methods]]
-- [ ] [[OOP, References, Class]]
+- [ ] [[OOP. Packages]]
 - [ ] [[Functions, packages]]
 - [ ] [[Exception handling]]
 - [ ] [[Pointers]]

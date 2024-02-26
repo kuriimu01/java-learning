@@ -4,7 +4,7 @@
 - [ ] [[Exception handling]]
 - [ ] [[Array & ArrayList]]
 - [ ] [[Functions, packages]]
-- [ ] [[OOP, References, Class]]
+- [ ] [[OOP. Packages]]
 - [ ] [[Pointers]]
 - [ ] [[Interface]]
 - [ ] [[Thread, Routine]]

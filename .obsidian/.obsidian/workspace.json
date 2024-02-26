@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6713d2104f5c6bef",
+        "id": "41f2d881173df49a",
         "type": "tabs",
         "children": [
           {
-            "id": "90b232c8a3efe1a2",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Java/Java Roadmap 2023-2024.md"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "c1bf8077973be8e5",
+            "id": "1ddc62d683cf448a",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Java/Java Roadmap 2023-2024.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Java Roadmap 2023-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Java/Java Roadmap 2023-2024.md"
-              }
+              "state": {}
             }
           },
           {
@@ -137,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java Roadmap 2023-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,12 +148,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c1bf8077973be8e5",
+  "active": "1ddc62d683cf448a",
   "lastOpenFiles": [
-    "Java/Methods.md",
-    "Java/OOP, References, Class.md",
-    "Java/Variables, Constants, Types, Operators.md",
     "Java/Java Roadmap 2023-2024.md",
+    "Java/OOP. Packages.md",
+    "Java/Methods.md",
+    "Java/Variables, Constants, Types, Operators.md",
     "Java/Java CLI and basics.md",
     "Java/Java.md",
     "Java/Basic libraries.md",
