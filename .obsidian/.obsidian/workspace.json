@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "136cbd5dfd13da1d",
+        "id": "6713d2104f5c6bef",
         "type": "tabs",
         "children": [
           {
-            "id": "75b4aefc5c6c2469",
+            "id": "90b232c8a3efe1a2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Java/Java Roadmap 2023-2024.md"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "c1bf8077973be8e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/OOP, References, Class.md",
+                "file": "Java/Variables, Constants, Types, Operators.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "right": {
     "id": "d836f8f0dd4240a5",
@@ -86,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/OOP, References, Class.md",
+                "file": "Java/Variables, Constants, Types, Operators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/OOP, References, Class.md"
+                "file": "Java/Variables, Constants, Types, Operators.md"
               }
             }
           },
@@ -127,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/OOP, References, Class.md",
+                "file": "Java/Variables, Constants, Types, Operators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,19 +169,20 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "75b4aefc5c6c2469",
+  "active": "c1bf8077973be8e5",
   "lastOpenFiles": [
     "Java/Java Roadmap 2023-2024.md",
+    "Java/Java CLI and basics.md",
+    "Java/Java.md",
+    "Java/Basic libraries.md",
+    "Java/Array & ArrayList.md",
+    "Java/OOP, References, Class.md",
     "Java/Methods.md",
     "Java/Loops.md",
-    "Java/OOP, References, Class.md",
     "imgs/Pasted image 20240130205118.png",
     "imgs/Pasted image 20240130205112.png",
-    "Java/Java.md",
     "Disgaea auto-farm.md",
-    "Java/Array & ArrayList.md",
     "Java/Variables, Constants, Types, Operators.md",
-    "Java/Java CLI and basics.md",
     "Java/Interface.md",
     "Java/String operations.md",
     "Java/Basic SQL Syntax.md",
