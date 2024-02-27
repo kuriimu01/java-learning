@@ -163,3 +163,42 @@ class Main {
 
 ## Abstract classes & methods
 
+> Abstract method can't be in a non abstract class. But if you extend an abstract class into concrete subclass, you need to override it, or make it fully abstract.
+
+``` Java
+// Abstract class
+abstract class Animal {
+    // Abstract method
+    public abstract void makeSound();
+}
+
+// Concrete subclass
+class Cat extends Animal {
+    // Implementation of abstract method
+    @Override
+    public void makeSound() {
+        System.out.println("Meow");
+    }
+}
+
+// Concrete subclass
+class Dog extends Animal {
+    // Implementation of abstract method
+    @Override
+    public void makeSound() {
+        System.out.println("Woof");
+    }
+}
+
+public class Main {
+    public static void main(String[] args) {
+        Animal cat = new Cat();
+        Animal dog = new Dog();
+
+        cat.makeSound(); // Output: Meow
+        dog.makeSound(); // Output: Woof
+    }
+}
+
+
+```
