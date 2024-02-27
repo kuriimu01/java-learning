@@ -11,9 +11,11 @@
             "id": "1ddc62d683cf448a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.8"
+                "file": "Java/OOP. Packages.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,6 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Java/OOP. Packages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -104,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Java/OOP. Packages.md"
+              }
             }
           },
           {
@@ -121,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Java/OOP. Packages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,9 +158,9 @@
   },
   "active": "1ddc62d683cf448a",
   "lastOpenFiles": [
-    "Java/Java Roadmap 2023-2024.md",
-    "Java/OOP. Packages.md",
     "Java/Methods.md",
+    "Java/OOP. Packages.md",
+    "Java/Java Roadmap 2023-2024.md",
     "Java/Variables, Constants, Types, Operators.md",
     "Java/Java CLI and basics.md",
     "Java/Java.md",
