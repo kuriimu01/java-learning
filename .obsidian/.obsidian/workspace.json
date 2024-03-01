@@ -11,8 +11,12 @@
             "id": "b9e7f48c5fa6ad25",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Java/OOP. Abstraction & Interfaces.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Java/OOP. Abstraction & Interfaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Java/OOP. Abstraction & Interfaces.md"
+              }
             }
           },
           {
@@ -119,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Java/OOP. Abstraction & Interfaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,8 +158,8 @@
   },
   "active": "b9e7f48c5fa6ad25",
   "lastOpenFiles": [
-    "Java/OOP. Abstraction & Interfaces.md",
     "Java/Java Roadmap 2023-2024.md",
+    "Java/OOP. Abstraction & Interfaces.md",
     "Java/Packages.md",
     "Java/Java.md",
     "Java/Methods.md",

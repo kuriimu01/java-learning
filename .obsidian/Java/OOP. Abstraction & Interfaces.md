@@ -215,3 +215,5 @@ public class Main {
 ```
 
 ## Interfaces
+var's by default are static final here
+methods by default public abstract
