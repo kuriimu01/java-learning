@@ -328,3 +328,71 @@ interface ExampleInterface {
 
 ## 🏘️ Inner classes
 
+In Java, you can define a *nested class*. This is a class that is declared within another class. Frankly, the nested class is a somewhat advanced topic. In fact, nested classes were not even allowed in the first version of Java. It was not until *Java 1.1* that they were added.
+
+There are two general types of nested classes: those that are preceded by the static modifier and those that are not. The only type that we are concerned about in this book is the non-static variety. This type of nested class is also called an *inner class*. It has access to all of the variables and methods of its outer class and may refer to them directly in the same way that other non-static members of the outer class do.
+
+Sometimes an inner class is used to provide a set of services that is needed only by its enclosing class. Here is an example that uses an inner class to compute various values for its enclosing class:
+							**Only inner classes can be static**
+```Java
+class Outer {
+    int[] nums;
+    Outer(int[] n) {
+        nums = n;
+    }
+    void analyze() {
+        Inner inOb = new Inner();
+        System.out.println("Minimum: " + inOb.min());
+        System.out.println("Maximum: " + inOb.max());
+        System.out.println("Average: " + inOb.avg());
+    }
+
+    class Inner {
+        int min() {
+            int m = nums[0];
+            for (int i = 1; i < nums.length; i++)
+                if (nums[i] < m)
+                    m = nums[i];
+            return m;
+        }
+
+        int max() {
+            int m = nums[0];
+            for (int i = 1; i < nums.length; i++)
+                if (nums[i] > m)
+                    m = nums[i];
+            return m;
+        }
+
+        int avg() {
+            int a = 0;
+            for (int i = 0; i < nums.length; i++)
+                a += nums[i];
+            return a / nums.length;
+        }
+    }
+}
+class NestedClassDemo {
+    public static void main(String[] args) {
+        int[] x = {3, 2, 1, 5, 6, 9, 7, 8};
+        Outer outOb = new Outer(x);
+        outOb.analyze();
+    }
+}
+
+```
+
+>**Correct way to create outer and inner classes instances**
+```Java
+class Main {  
+    public static void main(String[] args) {  
+        int[] x = {3, 2, 1, 5, 6, 9, 7, 8};  
+        Outer o = new Outer(x);  
+        Outer.Inner inn = o.new Inner();  
+        o.analyze();  
+        System.out.println(inn.avg());  
+    }  
+}
+```
+
+### Anonymous Inner Classes (Swing)
