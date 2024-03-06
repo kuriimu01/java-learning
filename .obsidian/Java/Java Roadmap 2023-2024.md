@@ -14,12 +14,9 @@ kanban-plugin: basic
 - [x] [[Loops]]
 - [x] [[Array & ArrayList]]
 - [x] [[Methods]]
-- [ ] [[OOP. Abstraction & Interfaces]]
+- [ ] [[OOP. Abstraction & Interfaces. Inner classes]]
 - [ ] [[Packages]]
-- [ ] [[Functions, packages]]
 - [ ] [[Exception handling]]
-- [ ] [[Pointers]]
-- [ ] [[Interface]]
 - [ ] [[Thread, Routine]]
 
 
@@ -45,11 +42,6 @@ kanban-plugin: basic
 ## SQL fundamentals
 
 - [ ] [[Basic SQL Syntax]]
-
-
-## https://www.figma.com/file/pkssxjR5ZksSELae2Klf7S/Scheme?type=design&node-id=0-1&mode=design&t=ai4G80mpV6wlvVKV-0
-
-- [ ] [Learn to become a modern Java developer (roadmap.sh)](https://roadmap.sh/java)
 
 
 

@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "e00516a4f4199954",
+        "id": "7de13aa835739360",
         "type": "tabs",
         "children": [
           {
-            "id": "a9794ea6287d31b7",
+            "id": "aa4006d6b906a8d1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Java/Java Roadmap 2023-2024.md"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "428bd90eca3655fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Disgaea auto-farm.md",
+                "file": "Java/OOP. Abstraction & Interfaces. Inner classes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6939f00f5ca86fcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/OOP. Abstraction & Interfaces. Inner classes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Disgaea auto-farm.md",
+                "file": "Java/OOP. Abstraction & Interfaces. Inner classes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Disgaea auto-farm.md"
+                "file": "Java/OOP. Abstraction & Interfaces. Inner classes.md"
               }
             }
           },
@@ -126,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Disgaea auto-farm.md",
+                "file": "Java/OOP. Abstraction & Interfaces. Inner classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,11 +181,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a9794ea6287d31b7",
+  "active": "6939f00f5ca86fcb",
   "lastOpenFiles": [
     "Java/Java Roadmap 2023-2024.md",
-    "Java/OOP. Abstraction & Interfaces.md",
+    "Java/OOP. Abstraction & Interfaces. Inner classes.md",
     "Java/Packages.md",
+    "Java/Pointers.md",
+    "Java/Interface.md",
     "Java/Java.md",
     "Java/Methods.md",
     "Java/Variables, Constants, Types, Operators.md",
@@ -171,7 +198,6 @@
     "imgs/Pasted image 20240130205118.png",
     "imgs/Pasted image 20240130205112.png",
     "Disgaea auto-farm.md",
-    "Java/Interface.md",
     "Java/String operations.md",
     "Java/Basic SQL Syntax.md",
     "Java/Conditional Statements.md",
@@ -185,12 +211,10 @@
     "Java/Exception handling.md",
     "imgs/Pasted image 20231223193559.png",
     "Java/Java Start.md",
-    "Java/Functions, packages.md",
     "imgs/Pasted image 20231219003903.png",
     "imgs/Pasted image 20231222154643.png",
     "imgs",
     "Java/Thread, Routine.md",
-    "Java/Pointers.md",
     "2023-12-18.md",
     "Java"
   ]

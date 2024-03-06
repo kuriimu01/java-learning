@@ -239,7 +239,7 @@ public class Cat implements Noize {
 
 > In Java, the default keyword is used in interfaces to define default methods. Default methods were introduced in Java 8 to allow interfaces to have concrete (non-abstract) methods.
 >Before Java 8, all methods in interfaces were implicitly abstract, meaning that any class implementing the interface had to provide an implementation for all of its methods. This created issues when a new method needed to be added to an existing interface, as it would break all classes implementing that interface.
-With default methods, interfaces can provide default implementations for methods. Here's how they work:
+   With default methods, interfaces can provide default implementations for methods. Here's how they work:
 ```Java
 interface Vehicle {
     // Abstract method
@@ -325,3 +325,6 @@ interface ExampleInterface {
     }
 }
 ```
+
+## 🏘️ Inner classes
+
