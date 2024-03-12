@@ -1,14 +1,18 @@
-## Private. Protected. Public.
+## Java’s Access Modifiers | Private. Protected. Public.
 
 
 ## 🤔 Static vs Non-static (vars and methods)
 > In static you can't just use methods from other classes, you need firstly create an object. Non-static variables cant be accessed from a static methods. 
 ```Java
-public class Main {
+public static void main {
 	Cat myCat = new Cat();
 	myCat.meow();
 }
 ```
+
+### 📒 static blocks
+
+
 ## Method overloading and overriding example
 
 ```Java

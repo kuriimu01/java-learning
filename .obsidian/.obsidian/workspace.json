@@ -11,8 +11,12 @@
             "id": "edaf98c668adc745",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Java/Methods.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Java/Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Java/Methods.md"
+              }
             }
           },
           {
@@ -119,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Java/Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,8 +158,8 @@
   },
   "active": "edaf98c668adc745",
   "lastOpenFiles": [
-    "Java/Java Roadmap 2023-2024.md",
     "Java/OOP. Abstraction & Interfaces. Inner classes.md",
+    "Java/Java Roadmap 2023-2024.md",
     "Java/Array & ArrayList.md",
     "Java/Packages.md",
     "Java/Pointers.md",
