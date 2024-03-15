@@ -1,4 +1,6 @@
 ![[Pasted image 20231219003903.png|400]]
+
+![[Pasted image 20240315154820.png|400]]
 ## Important to know
 
 ```Java
@@ -10,12 +12,12 @@ return Integer.toString(int); // int to str
 ```Java
 int value = 25; // Here 25 is a literal with integer type
 area = 3.14 * radius * radius; // Here 3.14 is a literal with !double! type
-float f = 3.14f; // The correct way to declare a float var's
+float f = 3.14f; // The correct way to declare a float literals 
 ```
 
 ```Java
 Use ' '  - for char
-Use " " for String
+and " " for String
 ```
 ## Constants
 ```Java
@@ -47,7 +49,7 @@ There are many .next methods, for every data type, like .nextInt() .nextFloat() 
 ```Java
 s.useRadix(2);  
 int x = s.nextInt();  
-System.out.println(x); #Making decimals 0001 - 1; 1111 - 15
+System.out.println(x); //Making decimals 0001 - 1; 1111 - 15
 ```
 
 ## First useful program
@@ -100,4 +102,21 @@ class Main{
 ## Widening and Narrowing
 
 ![[Pasted image 20231223141406.png|375]]
-Widenning - byte(1 byte) to short(2 bytes) 
+Widening - smaller to larger 
+
+```Java
+byte num1 = 10;
+short converted = num1; // it will work
+```
+
+Narrowing - larger to smaller. Type casting - temporarily changing a var data type
+
+```Java
+int num = 10;
+byte converted = num; -> will be Error
+
+int num = 10;
+byte converted = (byte) num; // Will work. It called type casting 
+// If converted number is too large, it will do a strange things with number,
+// so try to avoid that.
+```

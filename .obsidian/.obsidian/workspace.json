@@ -11,9 +11,11 @@
             "id": "87e3ed0bd5f41623",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Java/Java Roadmap 2023-2024.md"
+                "file": "Java/Variables, Constants, Types, Operators.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Java Roadmap 2023-2024.md",
+                "file": "Java/Variables, Constants, Types, Operators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Java Roadmap 2023-2024.md"
+                "file": "Java/Variables, Constants, Types, Operators.md"
               }
             }
           },
@@ -124,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java Roadmap 2023-2024.md",
+                "file": "Java/Variables, Constants, Types, Operators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,24 +158,27 @@
   },
   "active": "87e3ed0bd5f41623",
   "lastOpenFiles": [
-    "Java/OOP. Abstraction & Interfaces. Inner classes.md",
+    "imgs/Pasted image 20240315154820.png",
     "Java/Java Roadmap 2023-2024.md",
+    "Java/Basic libraries.md",
     "Java/Array & ArrayList.md",
+    "Java/Basic SQL Syntax.md",
+    "Java/Conditional Statements.md",
+    "Java/Exception handling.md",
+    "Java/Java.md",
+    "Java/Loops.md",
+    "Java/Methods.md",
+    "Java/OOP. Abstraction & Interfaces. Inner classes.md",
     "Java/Packages.md",
+    "Java/String operations.md",
+    "Java/Thread, Routine.md",
     "Java/Pointers.md",
     "Java/Interface.md",
-    "Java/Java.md",
-    "Java/Methods.md",
     "Java/Variables, Constants, Types, Operators.md",
     "Java/Java CLI and basics.md",
-    "Java/Basic libraries.md",
-    "Java/Loops.md",
     "imgs/Pasted image 20240130205118.png",
     "imgs/Pasted image 20240130205112.png",
     "Disgaea auto-farm.md",
-    "Java/String operations.md",
-    "Java/Basic SQL Syntax.md",
-    "Java/Conditional Statements.md",
     "code",
     "Нова папка",
     "imgs/Pasted image 20231228014521.png",
@@ -181,13 +186,11 @@
     "imgs/Pasted image 20231228013830.png",
     "imgs/Pasted image 20231223204136.png",
     "imgs/Pasted image 20231223204126.png",
-    "Java/Exception handling.md",
     "imgs/Pasted image 20231223193559.png",
     "Java/Java Start.md",
     "imgs/Pasted image 20231219003903.png",
     "imgs/Pasted image 20231222154643.png",
     "imgs",
-    "Java/Thread, Routine.md",
     "2023-12-18.md",
     "Java"
   ]
