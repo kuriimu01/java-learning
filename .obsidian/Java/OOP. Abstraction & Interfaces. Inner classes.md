@@ -394,5 +394,6 @@ class Main {
     }  
 }
 ```
-
 ### Anonymous Inner Classes (Swing)
+
+## Singleton class

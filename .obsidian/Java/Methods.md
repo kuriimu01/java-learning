@@ -1,4 +1,4 @@
-## Java’s Access Modifiers | Private. Protected. Public.
+## Java’s Access Modifiers | Private. Protected. Public. Final
 
 
 ## 🤔 Static vs Non-static (vars and methods)
