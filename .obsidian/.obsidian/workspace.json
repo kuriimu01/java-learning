@@ -4,20 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "abf8141259cfd244",
+        "id": "89aa4014bad14cc7",
         "type": "tabs",
         "children": [
           {
-            "id": "718845beecb8e8dc",
+            "id": "a595f9eadc31943a",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "kanban",
               "state": {
                 "file": "Java/Java Roadmap 2023-2024.md"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "a8eb9973f8deb02b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Exception handling.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Java Roadmap 2023-2024.md",
+                "file": "Java/Exception handling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Java Roadmap 2023-2024.md"
+                "file": "Java/Exception handling.md"
               }
             }
           },
@@ -124,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java Roadmap 2023-2024.md",
+                "file": "Java/Exception handling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,21 +169,21 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "718845beecb8e8dc",
+  "active": "a8eb9973f8deb02b",
   "lastOpenFiles": [
+    "Java/Java Roadmap 2023-2024.md",
+    "Java/Exception handling.md",
+    "Java/OOP. Abstraction & Interfaces. Inner classes.md",
+    "Java/Packages.md",
     "Java/Methods.md",
     "Java/Variables, Constants, Types, Operators.md",
     "imgs/Pasted image 20240315154820.png",
-    "Java/Java Roadmap 2023-2024.md",
     "Java/Basic libraries.md",
     "Java/Array & ArrayList.md",
     "Java/Basic SQL Syntax.md",
     "Java/Conditional Statements.md",
-    "Java/Exception handling.md",
     "Java/Java.md",
     "Java/Loops.md",
-    "Java/OOP. Abstraction & Interfaces. Inner classes.md",
-    "Java/Packages.md",
     "Java/String operations.md",
     "Java/Thread, Routine.md",
     "Java/Pointers.md",
