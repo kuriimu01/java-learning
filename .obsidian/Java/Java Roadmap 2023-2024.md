@@ -17,6 +17,23 @@ kanban-plugin: basic
 - [x] [[OOP. Abstraction & Interfaces. Inner classes]]
 - [ ] [[Exception handling]]
 - [ ] [[Thread, Routine]]
+- [ ] [[Generics, Optionals]]
+
+
+## Maven
+
+
+
+## Spring
+
+
+
+## SpringBoot
+
+
+
+## Hibernate
+
 
 
 ## General Development Skills
@@ -30,16 +47,12 @@ kanban-plugin: basic
 - [ ] Docker\ other
 
 
-## Gradle/Maven, Library
+## additional
 
 - [ ] Learn Java dependency management tool
 - [ ] JCommander; airline
 - [ ] semantic versioning
 - [ ] Version, scripts, repository and other Properties
-
-
-## SQL fundamentals
-
 - [ ] [[Basic SQL Syntax]]
 
 
