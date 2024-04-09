@@ -15,7 +15,6 @@ kanban-plugin: basic
 - [x] [[Array & ArrayList]]
 - [x] [[Methods]]
 - [x] [[OOP. Abstraction & Interfaces. Inner classes]]
-- [ ] [[Packages]]
 - [ ] [[Exception handling]]
 - [ ] [[Thread, Routine]]
 
