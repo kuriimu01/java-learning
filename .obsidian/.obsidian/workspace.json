@@ -11,9 +11,11 @@
             "id": "4b879599f409e010",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Java/Java Roadmap 2023-2024.md"
+                "file": "Java/Exception handling.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Java Roadmap 2023-2024.md",
+                "file": "Java/Exception handling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Java Roadmap 2023-2024.md"
+                "file": "Java/Exception handling.md"
               }
             }
           },
@@ -124,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java Roadmap 2023-2024.md",
+                "file": "Java/Exception handling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,8 +158,8 @@
   },
   "active": "4b879599f409e010",
   "lastOpenFiles": [
-    "Java/Generics, Optionals.md",
     "Java/Java Roadmap 2023-2024.md",
+    "Java/Generics, Optionals.md",
     "Java/Exception handling.md",
     "imgs/Pasted image 20240409194447.png",
     "imgs/Pasted image 20240409191717.png",
