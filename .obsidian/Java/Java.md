@@ -4,7 +4,7 @@
 - [ ] [[Exception handling]]
 - [ ] [[Array & ArrayList]]
 - [ ] [[Packages]]
-- [ ] [[OOP. Abstraction & Interfaces. Inner classes]]
+- [ ] [[OOP. Abstraction. Inner classes]]
 - [ ] [[Pointers]]
 - [ ] [[Interface]]
 - [ ] [[Thread, Routine]]
