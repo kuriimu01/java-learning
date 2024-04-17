@@ -1,6 +1,10 @@
 
 ## Packages
 
+Java project layout
+
+![[Pasted image 20240417205610.png]]
+
 ## Interfaces
 
 >*Interfaces* in Java is **a mechanism to achieve abstraction**. There can be only abstract methods in the Java interface, not method body. It is used to achieve abstraction and multiple inheritance in Java. 
