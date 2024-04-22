@@ -11,9 +11,11 @@
             "id": "82cbd6b4a33fbaa1",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Java/Java Roadmap 2023-2024.md"
+                "file": "Java/OOP. Abstraction. Inner classes.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Java Roadmap 2023-2024.md",
+                "file": "Java/OOP. Abstraction. Inner classes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Java Roadmap 2023-2024.md"
+                "file": "Java/OOP. Abstraction. Inner classes.md"
               }
             }
           },
@@ -124,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java Roadmap 2023-2024.md",
+                "file": "Java/OOP. Abstraction. Inner classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,8 +158,8 @@
   },
   "active": "82cbd6b4a33fbaa1",
   "lastOpenFiles": [
-    "imgs/Pasted image 20240417205610.png",
     "Java/Java Roadmap 2023-2024.md",
+    "imgs/Pasted image 20240417205610.png",
     "Java/OOP. Abstraction. Inner classes.md",
     "Java/Packages & Interfaces.md",
     "Java/Exception handling.md",
@@ -188,7 +190,6 @@
     "imgs/Pasted image 20231228013907.png",
     "imgs/Pasted image 20231228013830.png",
     "imgs/Pasted image 20231223204136.png",
-    "imgs/Pasted image 20231223204126.png",
     "Java/Java Start.md",
     "imgs",
     "2023-12-18.md",

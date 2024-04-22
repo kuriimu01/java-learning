@@ -80,12 +80,14 @@ class Main extends Area{
 
 >*Constructor* - method, that has a same name with class, did not has a type specification, and automatically called whenever object is created.
 
+## Association, aggregation, and composition
+
 ## What is a Class?
 
 > *Class* is a set of plans that specify how to build an object. A class is a logical abstraction. It is not until an object of that class has been created that a physical representation of that class exists in memory. Recall that the methods and variables that constitute a class are called *members of the class*. The data members are also referred to as *instance variables*.
 
 Objects are instances of a class. When u use `new` keyword, you creating an *instance* of a class
-## 🤔 this vs super
+## 🤔 this & super
 ### super
 Use super when you want to use method from extended file, and overrided it in this file.  Super is parent class.
 
