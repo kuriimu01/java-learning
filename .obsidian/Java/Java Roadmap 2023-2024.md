@@ -29,10 +29,6 @@ kanban-plugin: basic
 
 
 
-## SpringBoot
-
-
-
 ## Hibernate
 
 
