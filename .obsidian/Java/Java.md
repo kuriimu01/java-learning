@@ -2,7 +2,7 @@
 - [x] [[Variables, Constants, Types, Operators]] Operators
 - [ ] [[String operations]]
 - [ ] [[Exception handling]]
-- [ ] [[Array & ArrayList]]
+- [ ] [[Array & ArrayList, Vectors, Hash-maps.]]
 - [ ] [[Packages]]
 - [ ] [[OOP. Abstraction. Inner classes]]
 - [ ] [[Pointers]]
