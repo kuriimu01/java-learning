@@ -2,7 +2,6 @@
 
 
 ```Java
-package com.example.main;  
 import java.util.HashMap;  
   
 class ATM{  
