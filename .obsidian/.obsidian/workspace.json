@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6352cc6fba9bd1e6",
+        "id": "a4880c1177d5f3f0",
         "type": "tabs",
         "children": [
           {
-            "id": "7bf2126b93685e20",
+            "id": "da22eed4e3259da2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Thread, Routine.md",
+                "file": "Java/OOP. Abstraction. Inner classes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Thread, Routine.md",
+                "file": "Java/OOP. Abstraction. Inner classes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Thread, Routine.md"
+                "file": "Java/OOP. Abstraction. Inner classes.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Thread, Routine.md",
+                "file": "Java/OOP. Abstraction. Inner classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,12 +156,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7bf2126b93685e20",
+  "active": "da22eed4e3259da2",
   "lastOpenFiles": [
+    "Java/Methods.md",
+    "Java/Exception handling.md",
     "Java/Java Roadmap 2023-2024.md",
     "Java/Array & ArrayList, Vectors, Hash-maps..md",
     "Java/Packages & Interfaces.md",
-    "Java/Exception handling.md",
     "Java/Thread, Routine.md",
     "imgs/Pasted image 20240417205610.png",
     "Java/OOP. Abstraction. Inner classes.md",
@@ -169,7 +170,6 @@
     "imgs/Pasted image 20240409194447.png",
     "imgs/Pasted image 20240409191717.png",
     "Java/Packages.md",
-    "Java/Methods.md",
     "Java/Variables, Constants, Types, Operators.md",
     "imgs/Pasted image 20240315154820.png",
     "Java/Basic libraries.md",
