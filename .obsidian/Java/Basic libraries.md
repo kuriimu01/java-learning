@@ -6,3 +6,7 @@ The first version contained only 8 standard libraries:
  -  java.awt.image - additional classes for working with images; 
  -  java.io - work with data streams and files; 
  -  java.net - work with the network.
+
+
+Object is a parent class for all classes. Integer, long etc. are child of parent class Number
+![[Pasted image 20240521132518.png]]

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a4880c1177d5f3f0",
+        "id": "d97e980e3855ecfc",
         "type": "tabs",
         "children": [
           {
-            "id": "da22eed4e3259da2",
+            "id": "da83aab4ce7d7212",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/OOP. Abstraction. Inner classes.md",
+                "file": "Java/Basic libraries.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/OOP. Abstraction. Inner classes.md",
+                "file": "Java/Basic libraries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/OOP. Abstraction. Inner classes.md"
+                "file": "Java/Basic libraries.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/OOP. Abstraction. Inner classes.md",
+                "file": "Java/Basic libraries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,11 +156,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "da22eed4e3259da2",
+  "active": "da83aab4ce7d7212",
   "lastOpenFiles": [
+    "imgs/Pasted image 20240521132518.png",
+    "Java/Java Roadmap 2023-2024.md",
     "Java/Methods.md",
     "Java/Exception handling.md",
-    "Java/Java Roadmap 2023-2024.md",
     "Java/Array & ArrayList, Vectors, Hash-maps..md",
     "Java/Packages & Interfaces.md",
     "Java/Thread, Routine.md",
