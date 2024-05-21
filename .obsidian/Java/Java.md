@@ -2,11 +2,11 @@
 - [x] [[Variables, Constants, Types, Operators]] Operators
 - [ ] [[String operations]]
 - [ ] [[Exception handling]]
-- [ ] [[Array & ArrayList, Vectors, Hash-maps.]]
+- [ ] [[Array & ArrayList. Vectors, Hash-maps. Enums.]]
 - [ ] [[Packages]]
-- [ ] [[OOP. Abstraction. Inner classes]]
+- [ ] [[OOP. Abstraction.]]
 - [ ] [[Pointers]]
 - [ ] [[Interface]]
-- [ ] [[Thread, Routine]]
+- [ ] [[Multi-threading]]
 
 

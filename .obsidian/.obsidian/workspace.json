@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "d97e980e3855ecfc",
+        "id": "8cf7992384d7e928",
         "type": "tabs",
         "children": [
           {
-            "id": "da83aab4ce7d7212",
+            "id": "f02cf45b398de4e8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Java/Java Roadmap 2023-2024.md"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "c8473df3062db37b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Basic libraries.md",
+                "file": "Java/Array & ArrayList. Vectors, Hash-maps. Enums..md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Basic libraries.md",
+                "file": "Java/Array & ArrayList. Vectors, Hash-maps. Enums..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Basic libraries.md"
+                "file": "Java/Array & ArrayList. Vectors, Hash-maps. Enums..md"
               }
             }
           },
@@ -126,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Basic libraries.md",
+                "file": "Java/Array & ArrayList. Vectors, Hash-maps. Enums..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,32 +170,33 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "da83aab4ce7d7212",
+  "active": "da0056509dd811d4",
   "lastOpenFiles": [
-    "imgs/Pasted image 20240521132518.png",
     "Java/Java Roadmap 2023-2024.md",
+    "Java/Java CLI and basics.md",
+    "Java/Basic libraries.md",
+    "Java/Variables, Constants, Types, Operators.md",
+    "Java/Conditional Statements.md",
+    "Java/Loops.md",
+    "Java/Array & ArrayList. Vectors, Hash-maps. Enums..md",
+    "Java/String operations.md",
+    "Java/OOP. Abstraction..md",
+    "Java/Generics, Optionals..md",
+    "Java/Collections Framework. Annotations..md",
+    "Java/Multi-threading.md",
+    "imgs/Pasted image 20240521132518.png",
     "Java/Methods.md",
     "Java/Exception handling.md",
-    "Java/Array & ArrayList, Vectors, Hash-maps..md",
     "Java/Packages & Interfaces.md",
-    "Java/Thread, Routine.md",
     "imgs/Pasted image 20240417205610.png",
-    "Java/OOP. Abstraction. Inner classes.md",
-    "Java/Generics, Optionals.md",
     "imgs/Pasted image 20240409194447.png",
     "imgs/Pasted image 20240409191717.png",
     "Java/Packages.md",
-    "Java/Variables, Constants, Types, Operators.md",
     "imgs/Pasted image 20240315154820.png",
-    "Java/Basic libraries.md",
     "Java/Basic SQL Syntax.md",
-    "Java/Conditional Statements.md",
     "Java/Java.md",
-    "Java/Loops.md",
-    "Java/String operations.md",
     "Java/Pointers.md",
     "Java/Interface.md",
-    "Java/Java CLI and basics.md",
     "imgs/Pasted image 20240130205118.png",
     "imgs/Pasted image 20240130205112.png",
     "Disgaea auto-farm.md",
@@ -190,7 +205,6 @@
     "imgs/Pasted image 20231228014521.png",
     "imgs/Pasted image 20231228013907.png",
     "imgs/Pasted image 20231228013830.png",
-    "imgs/Pasted image 20231223204136.png",
     "Java/Java Start.md",
     "imgs",
     "2023-12-18.md",

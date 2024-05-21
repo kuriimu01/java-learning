@@ -12,13 +12,14 @@ kanban-plugin: basic
 - [x] [[String operations]]
 - [x] [[Conditional Statements]]
 - [x] [[Loops]]
-- [x] [[Array & ArrayList, Vectors, Hash-maps.]]
+- [x] [[Array & ArrayList. Vectors, Hash-maps. Enums.]]
 - [x] [[Methods]]
-- [x] [[OOP. Abstraction. Inner classes]]
+- [x] [[OOP. Abstraction.]]
 - [x] [[Packages & Interfaces]]
 - [x] [[Exception handling]]
-- [ ] [[Thread, Routine]]
-- [ ] [[Generics, Optionals]]
+- [x] [[Multi-threading]]
+- [ ] [[Generics, Optionals.]]
+- [ ] [[Collections Framework. Annotations.]]
 
 
 ## Maven
