@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8cf7992384d7e928",
+        "id": "bd2c14263856bce4",
         "type": "tabs",
         "children": [
           {
-            "id": "f02cf45b398de4e8",
+            "id": "e493840ad4b9b020",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "kanban",
               "state": {
                 "file": "Java/Java Roadmap 2023-2024.md"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "c8473df3062db37b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Array & ArrayList. Vectors, Hash-maps. Enums..md",
-                "mode": "source",
-                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +84,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Array & ArrayList. Vectors, Hash-maps. Enums..md",
+                "file": "Java/Java Roadmap 2023-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Array & ArrayList. Vectors, Hash-maps. Enums..md"
+                "file": "Java/Java Roadmap 2023-2024.md"
               }
             }
           },
@@ -140,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Array & ArrayList. Vectors, Hash-maps. Enums..md",
+                "file": "Java/Java Roadmap 2023-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
