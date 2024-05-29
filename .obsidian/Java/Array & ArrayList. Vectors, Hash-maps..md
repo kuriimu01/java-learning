@@ -220,6 +220,3 @@ String[][] cars =   new String[3][3];
 ```
 
 # ArrayList
-# Enum
-
-Enum is a pre-defined set of values. 
