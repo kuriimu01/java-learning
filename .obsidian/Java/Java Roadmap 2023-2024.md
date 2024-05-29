@@ -13,7 +13,7 @@ kanban-plugin: basic
 - [x] [[Conditional Statements]]
 - [x] [[Loops]]
 - [x] [[Array & ArrayList. Vectors, Hash-maps.]]
-- [x] [[Methods]]
+- [x] [[Methods. Lambda expressions]]
 - [x] [[OOP. Abstraction.]]
 - [x] [[Packages & Interfaces]]
 - [x] [[Exception handling]]
