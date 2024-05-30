@@ -4,16 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "5592690709ca59a4",
+        "id": "6c01b5bfb0cab4c9",
         "type": "tabs",
         "children": [
           {
-            "id": "e37e12ae1faf32eb",
+            "id": "8a1dfa89df9d11d3",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "kanban",
               "state": {
                 "file": "Java/Java Roadmap 2023-2024.md"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "cbee2933f732ad0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/IO Streams.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -154,11 +168,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e37e12ae1faf32eb",
+  "active": "8a1dfa89df9d11d3",
   "lastOpenFiles": [
+    "Java/IO Streams.md",
     "Java/Java Roadmap 2023-2024.md",
-    "Java/Array & ArrayList. Vectors, Hash-maps..md",
     "Java/Enumerations, Autoboxing,  Annotations.md",
+    "Java/Array & ArrayList. Vectors, Hash-maps..md",
     "Java/Collections Framework.md",
     "Java/Java CLI and basics.md",
     "Java/Basic libraries.md",

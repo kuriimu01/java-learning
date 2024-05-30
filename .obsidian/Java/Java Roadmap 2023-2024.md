@@ -18,7 +18,8 @@ kanban-plugin: basic
 - [x] [[Packages & Interfaces]]
 - [x] [[Exception handling]]
 - [x] [[Multi-threading]]
-- [ ] [[Enumerations, Autoboxing,  Annotations]]
+- [x] [[Enumerations, Autoboxing,  Annotations]]
+- [ ] [[IO Streams]]
 - [ ] [[Generics, Optionals.]]
 - [ ] [[Collections Framework]]
 
