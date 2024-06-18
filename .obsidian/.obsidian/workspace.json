@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dcb85abf5d42652e",
+        "id": "070a405d296ef7a8",
         "type": "tabs",
         "children": [
           {
-            "id": "8622431820a16ea5",
+            "id": "30e64c5412e4ef74",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Java/IO Streams.md",
-                "mode": "source",
-                "source": false
+                "file": "Java/Java Roadmap 2023-2024.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/IO Streams.md",
+                "file": "Java/Java Roadmap 2023-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/IO Streams.md"
+                "file": "Java/Java Roadmap 2023-2024.md"
               }
             }
           },
@@ -126,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/IO Streams.md",
+                "file": "Java/Java Roadmap 2023-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,10 +154,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8622431820a16ea5",
+  "active": "30e64c5412e4ef74",
   "lastOpenFiles": [
-    "Java/Java Roadmap 2023-2024.md",
     "Java/IO Streams.md",
+    "Java/Java Roadmap 2023-2024.md",
     "Java/Enumerations, Autoboxing,  Annotations.md",
     "Java/Array & ArrayList. Vectors, Hash-maps..md",
     "Java/Collections Framework.md",
