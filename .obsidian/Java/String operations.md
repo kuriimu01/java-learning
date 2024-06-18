@@ -79,7 +79,13 @@ str1.equals(str2) - // returns boolean T\F
 str1.equalsIgnoreCase(str2) - // returns reversed boolean T\F
 .compareTo() - // returns int value 
 ```
+```Java
+//Creating phone number mask 
+public static String createPhoneNumber(int[] n) {
+    return String.format("(%d%d%d) %d%d%d-%d%d%d%d", n[0], n[1], n[2], n[3], n[4], n[5], n[6], n[7], n[8], n[9]);
+}
 
+```
 ## 🧑‍💻 .matches()
 
 ```Java

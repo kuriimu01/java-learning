@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "070a405d296ef7a8",
+        "id": "47bc2915cce8293a",
         "type": "tabs",
         "children": [
           {
-            "id": "30e64c5412e4ef74",
+            "id": "5bd911b97663e6d1",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Java/Java Roadmap 2023-2024.md"
+                "file": "Java/String operations.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Java Roadmap 2023-2024.md",
+                "file": "Java/String operations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Java Roadmap 2023-2024.md"
+                "file": "Java/String operations.md"
               }
             }
           },
@@ -124,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java Roadmap 2023-2024.md",
+                "file": "Java/String operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,19 +156,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "30e64c5412e4ef74",
+  "active": "5bd911b97663e6d1",
   "lastOpenFiles": [
-    "Java/IO Streams.md",
-    "Java/Java Roadmap 2023-2024.md",
-    "Java/Enumerations, Autoboxing,  Annotations.md",
     "Java/Array & ArrayList. Vectors, Hash-maps..md",
+    "Java/Java Roadmap 2023-2024.md",
+    "Java/String operations.md",
+    "Java/IO Streams.md",
+    "Java/Enumerations, Autoboxing,  Annotations.md",
     "Java/Collections Framework.md",
     "Java/Java CLI and basics.md",
     "Java/Basic libraries.md",
     "Java/Variables, Constants, Types, Operators.md",
     "Java/Conditional Statements.md",
     "Java/Loops.md",
-    "Java/String operations.md",
     "Java/OOP. Abstraction..md",
     "Java/Generics, Optionals..md",
     "Java/Multi-threading.md",
