@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "47bc2915cce8293a",
+        "id": "9d14076f3aa01764",
         "type": "tabs",
         "children": [
           {
-            "id": "5bd911b97663e6d1",
+            "id": "2687c6146dc94417",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Java/String operations.md",
-                "mode": "source",
-                "source": false
+                "file": "Java/Java Roadmap 2023-2024.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/String operations.md",
+                "file": "Java/Java Roadmap 2023-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/String operations.md"
+                "file": "Java/Java Roadmap 2023-2024.md"
               }
             }
           },
@@ -126,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/String operations.md",
+                "file": "Java/Java Roadmap 2023-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,14 +154,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "5bd911b97663e6d1",
+  "active": "2687c6146dc94417",
   "lastOpenFiles": [
     "Java/Array & ArrayList. Vectors, Hash-maps..md",
     "Java/Java Roadmap 2023-2024.md",
+    "Java/Collections Framework. Array & ArrayList. Vectors, Hash-maps..md",
     "Java/String operations.md",
     "Java/IO Streams.md",
     "Java/Enumerations, Autoboxing,  Annotations.md",
-    "Java/Collections Framework.md",
     "Java/Java CLI and basics.md",
     "Java/Basic libraries.md",
     "Java/Variables, Constants, Types, Operators.md",

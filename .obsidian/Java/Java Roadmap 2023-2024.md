@@ -12,7 +12,6 @@ kanban-plugin: basic
 - [x] [[String operations]]
 - [x] [[Conditional Statements]]
 - [x] [[Loops]]
-- [x] [[Array & ArrayList. Vectors, Hash-maps.]]
 - [x] [[Methods. Lambda expressions]]
 - [x] [[OOP. Abstraction.]]
 - [x] [[Packages & Interfaces]]
@@ -21,7 +20,7 @@ kanban-plugin: basic
 - [x] [[Enumerations, Autoboxing,  Annotations]]
 - [ ] [[IO Streams]]
 - [ ] [[Generics, Optionals.]]
-- [ ] [[Collections Framework]]
+- [ ] [[Collections Framework. Array & ArrayList. Vectors, Hash-maps.]]
 
 
 ## Maven
