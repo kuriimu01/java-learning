@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9d14076f3aa01764",
+        "id": "0db91fe181f1fced",
         "type": "tabs",
         "children": [
           {
-            "id": "2687c6146dc94417",
+            "id": "9779252e438f76a9",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -154,19 +154,21 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2687c6146dc94417",
+  "active": "9779252e438f76a9",
   "lastOpenFiles": [
-    "Java/Array & ArrayList. Vectors, Hash-maps..md",
+    "Java/Java CLI and basics.md",
+    "Java.md",
     "Java/Java Roadmap 2023-2024.md",
+    "Java/Loops.md",
+    "Java/Array & ArrayList. Vectors, Hash-maps..md",
+    "Java/Java.md",
+    "Java/IO Streams.md",
     "Java/Collections Framework. Array & ArrayList. Vectors, Hash-maps..md",
     "Java/String operations.md",
-    "Java/IO Streams.md",
     "Java/Enumerations, Autoboxing,  Annotations.md",
-    "Java/Java CLI and basics.md",
     "Java/Basic libraries.md",
     "Java/Variables, Constants, Types, Operators.md",
     "Java/Conditional Statements.md",
-    "Java/Loops.md",
     "Java/OOP. Abstraction..md",
     "Java/Generics, Optionals..md",
     "Java/Multi-threading.md",
@@ -180,7 +182,6 @@
     "Java/Packages.md",
     "imgs/Pasted image 20240315154820.png",
     "Java/Basic SQL Syntax.md",
-    "Java/Java.md",
     "Java/Pointers.md",
     "Java/Interface.md",
     "imgs/Pasted image 20240130205118.png",
