@@ -1,20 +1,36 @@
-import java.io.*;
+import java.io.DataInputStream;
+import java.io.DataOutputStream;
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
 
-public class Main {
-    public static void main(String[] args) throws Exception {
-        FileInputStream fis1 = new FileInputStream("C:/Users/Користувач/Desktop/source1.txt");
-        FileInputStream fis2 = new FileInputStream("C:/Users/Користувач/Desktop/source2.txt");
+class Main {
+    public static void push(float[] list, String path) throws Exception{
+        FileOutputStream fos = new FileOutputStream(path);
+        DataOutputStream dos = new DataOutputStream(fos);
 
-        FileOutputStream fos = new FileOutputStream("C:/Users/Користувач/Desktop/glued.txt");
-        SequenceInputStream sis = new SequenceInputStream(fis1,fis2);
-        int x;
-        while ((x=sis.read())!=-1){
-            fos.write(x);
+        dos.writeInt(list.length);
+        for (float f: list){
+            dos.writeFloat(f);
         }
-        sis.close();
-        fis1.close();
-        fis2.close();
+        dos.close();
         fos.close();
-
+    }
+    public static void read(String path) throws Exception{
+        FileInputStream fis = new FileInputStream(path);
+        DataInputStream dis = new DataInputStream(fis);
+        int length = dis.readInt();
+        float data;
+        for (int i = 0; i < length; i++) {
+            data=dis.readFloat();
+            System.out.println(data);
+        }
+        dis.close();
+        fis.close();
+    }
+    public static void main(String[] args) throws Exception{
+        float[] list={1.2f , 2.45f , 7.78f , 9.01f , 2.35f};
+        String path = "C:\\Users\\Користувач\\Desktop\\output.ser";
+        push(list, path);
+        read(path);
     }
 }
