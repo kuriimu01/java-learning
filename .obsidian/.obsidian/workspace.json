@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e9ea19d3d838df0e",
+        "id": "58f961a0a573cf01",
         "type": "tabs",
         "children": [
           {
-            "id": "a49adef153fc2929",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Java/Java Roadmap 2023-2024.md"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "fd792232075451b7",
+            "id": "e38d4c69f4572144",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/IO Streams.md",
+                "file": "Java/Core/Java.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/IO Streams.md",
+                "file": "Java/Core/Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/IO Streams.md"
+                "file": "Java/Core/Java.md"
               }
             }
           },
@@ -139,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/IO Streams.md",
+                "file": "Java/Core/Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,41 +156,44 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "fd792232075451b7",
+  "active": "e38d4c69f4572144",
   "lastOpenFiles": [
-    "Java/Java.md",
-    "Java/Java Roadmap 2023-2024.md",
-    "Java/Generics, Optionals..md",
-    "Java/Conditional Statements.md",
-    "Spring/Spring.md",
+    "Java/Core/Java CLI and basics.md",
+    "Java/Core/Java.md",
+    "Java Developer Roadmap 2023-2024.md",
+    "Java/Core/Variables, Constants, Types, Operators.md",
+    "Java/Core/IO Streams.md",
+    "Java/Core",
+    "Java/Frameworks",
+    "Java/Frameworks/Swing/Swing.md",
+    "Java/Frameworks/Swing",
+    "Java/Core/Generics, Optionals..md",
+    "Java/Core/Conditional Statements.md",
+    "Java/Frameworks/Spring/Spring.md",
     "Hibernate",
     "Hibernate/Hibernate.md",
-    "Spring",
+    "Java/Frameworks/Spring",
     "Java/Basic SQL Syntax.md",
-    "Java/Variables, Constants, Types, Operators.md",
-    "Java/Packages & Interfaces.md",
-    "Maven/Maven.md",
-    "Java/OOP. Abstraction..md",
-    "Maven",
-    "Java/Basic libraries.md",
-    "Java/IO Streams.md",
-    "Java/Java CLI and basics.md",
-    "Java/Loops.md",
+    "Java/Core/Packages & Interfaces.md",
+    "Java/Frameworks/Maven/Maven.md",
+    "Java/Core/OOP. Abstraction..md",
+    "Java/Frameworks/Maven",
+    "Java/Core/Basic libraries.md",
+    "Java/Core/Loops.md",
     "Java/Array & ArrayList. Vectors, Hash-maps..md",
-    "Java/Collections Framework. Array & ArrayList. Vectors, Hash-maps..md",
-    "Java/String operations.md",
-    "Java/Enumerations, Autoboxing,  Annotations.md",
-    "Java/Multi-threading.md",
+    "Java/Core/Collections Framework. Array & ArrayList. Vectors, Hash-maps..md",
+    "Java/Core/String operations.md",
+    "Java/Core/Enumerations, Autoboxing,  Annotations.md",
+    "Java/Core/Multi-threading.md",
     "imgs/Pasted image 20240521132518.png",
-    "Java/Methods. Lambda expressions.md",
-    "Java/Exception handling.md",
+    "Java/Core/Methods. Lambda expressions.md",
+    "Java/Core/Exception handling.md",
     "imgs/Pasted image 20240417205610.png",
     "imgs/Pasted image 20240409194447.png",
     "imgs/Pasted image 20240409191717.png",
     "Java/Packages.md",
     "imgs/Pasted image 20240315154820.png",
     "Java/Pointers.md",
-    "Java/Interface.md",
     "imgs/Pasted image 20240130205118.png",
     "imgs/Pasted image 20240130205112.png",
     "code",

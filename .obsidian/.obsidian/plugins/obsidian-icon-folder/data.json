@@ -6,10 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "SiSpring",
-      "SiApachemaven",
-      "FarImages",
-      "FabJava"
+      "TiMapHeart",
+      "TiBaselineDensityMedium",
+      "SiRobotframework",
+      "TiApps",
+      "SiSpring"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -27,7 +28,11 @@
   },
   "Java": "FabJava",
   "imgs": "FarImages",
-  "Maven": "SiApachemaven",
-  "Spring": "SiSpring",
-  "Java/Java.md": "FabJava"
+  "Java/Frameworks": "SiRobotframework",
+  "Java/Frameworks/Maven": "SiApachemaven",
+  "Java/Frameworks/Spring": "SiSpring",
+  "Java/Frameworks/Swing": "TiApps",
+  "Java/Core": "TiBaselineDensityMedium",
+  "Java/Core/Java.md": "FabJava",
+  "Java Developer Roadmap 2023-2024.md": "TiMapHeart"
 }
