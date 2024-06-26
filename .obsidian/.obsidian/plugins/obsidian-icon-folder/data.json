@@ -6,6 +6,9 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiSpring",
+      "SiApachemaven",
+      "FarImages",
       "FabJava"
     ],
     "recentlyUsedIconsSize": 5,
@@ -22,5 +25,9 @@
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true
   },
-  "Java": "FabJava"
+  "Java": "FabJava",
+  "imgs": "FarImages",
+  "Maven": "SiApachemaven",
+  "Spring": "SiSpring",
+  "Java/Java.md": "FabJava"
 }

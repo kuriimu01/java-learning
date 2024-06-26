@@ -6,32 +6,32 @@ kanban-plugin: basic
 
 ## [[Java]]
 
-- [x] [[Java CLI and basics]]
-- [x] [[Basic libraries]]
-- [x] [[Variables, Constants, Types, Operators]]
-- [x] [[String operations]]
-- [x] [[Conditional Statements]]
-- [x] [[Loops]]
-- [x] [[Methods. Lambda expressions]]
-- [x] [[OOP. Abstraction.]]
-- [x] [[Packages & Interfaces]]
-- [x] [[Exception handling]]
-- [x] [[Multi-threading]]
-- [x] [[Enumerations, Autoboxing,  Annotations]]
-- [ ] [[IO Streams]]
-- [ ] [[Generics, Optionals.]]
-- [ ] [[Collections Framework. Array & ArrayList. Vectors, Hash-maps.]]
+- [x] Java CLI and basics
+- [x] Basic libraries
+- [x] Variables, Constants, Types, Operators
+- [x] String operations
+- [x] Conditional Statements
+- [x] Loops
+- [x] Methods. Lambda expressions
+- [x] OOP. Abstraction.
+- [x] Packages & Interfaces
+- [x] Exception handling
+- [x] Multi-threading
+- [x] Enumerations, Autoboxing,  Annotations
+- [x] IO Streams
+- [x] Generics, Optionals
+- [ ] Collections Framework. Array & ArrayList. Vectors, Hash-maps
 
 
-## Maven
-
-
-
-## Spring
+## [[Maven]]
 
 
 
-## Hibernate
+## [[Spring]]
+
+
+
+## [[Hibernate]]
 
 
 
@@ -43,16 +43,16 @@ kanban-plugin: basic
 - [ ] Scrum, Kanban or other project strategies
 - [ ] Basic Authentication, OAuth, JWT, etc
 - [ ] SOLID, YAGNI, KISS
-- [ ] Docker\ other
+- [ ] Docker\ other DevOps things
 
 
 ## additional
 
-- [ ] Learn Java dependency management tool
+- [ ] Gradle
 - [ ] JCommander; airline
 - [ ] semantic versioning
 - [ ] Version, scripts, repository and other Properties
-- [ ] [[Basic SQL Syntax]]
+- [ ] Basic SQL Syntax
 
 
 
