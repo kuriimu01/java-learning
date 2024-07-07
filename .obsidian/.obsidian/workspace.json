@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "58f961a0a573cf01",
+        "id": "97e47185dff2c8a8",
         "type": "tabs",
         "children": [
           {
-            "id": "7824455651c64fa2",
+            "id": "b6730e258f315272",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.5"
+                "file": "Java/Java Roadmap 2023-2024.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Core/Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,9 +106,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Java/Core/Java.md"
-              }
+              "state": {}
             }
           },
           {
@@ -124,7 +123,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Core/Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,11 +152,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7824455651c64fa2",
+  "active": "b6730e258f315272",
   "lastOpenFiles": [
+    "Java/Java Roadmap 2023-2024.md",
+    "Java/Frameworks/Spring/Spring.md",
+    "Java Developer Roadmap 2023-2024.md",
     "Java/Core/Java CLI and basics.md",
     "Java/Core/Java.md",
-    "Java Developer Roadmap 2023-2024.md",
     "Java/Core/Variables, Constants, Types, Operators.md",
     "Java/Core/IO Streams.md",
     "Java/Core",
@@ -167,7 +167,6 @@
     "Java/Frameworks/Swing",
     "Java/Core/Generics, Optionals..md",
     "Java/Core/Conditional Statements.md",
-    "Java/Frameworks/Spring/Spring.md",
     "Hibernate",
     "Hibernate/Hibernate.md",
     "Java/Frameworks/Spring",
