@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "97e47185dff2c8a8",
+        "id": "0bd7ecb14882502f",
         "type": "tabs",
         "children": [
           {
-            "id": "b6730e258f315272",
+            "id": "9cf6ecbe8c0b27e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -85,6 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Java/Java Roadmap 2023-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Java/Java Roadmap 2023-2024.md"
+              }
             }
           },
           {
@@ -123,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Java/Java Roadmap 2023-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +156,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b6730e258f315272",
+  "active": "9cf6ecbe8c0b27e2",
   "lastOpenFiles": [
     "Java/Java Roadmap 2023-2024.md",
     "Java/Frameworks/Spring/Spring.md",
