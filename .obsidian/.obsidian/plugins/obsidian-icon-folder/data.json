@@ -28,11 +28,11 @@
   },
   "Java": "FabJava",
   "imgs": "FarImages",
-  "Java/Frameworks": "SiRobotframework",
-  "Java/Frameworks/Maven": "SiApachemaven",
-  "Java/Frameworks/Spring": "SiSpring",
-  "Java/Frameworks/Swing": "TiApps",
   "Java/Core": "TiBaselineDensityMedium",
   "Java/Core/Java.md": "FabJava",
-  "Java Developer Roadmap 2023-2024.md": "TiMapHeart"
+  "Java Developer Roadmap 2023-2024.md": "TiMapHeart",
+  "Frameworks": "SiRobotframework",
+  "Frameworks/Maven": "SiApachemaven",
+  "Frameworks/Spring": "SiSpring",
+  "Frameworks/Swing": "TiApps"
 }
