@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e6fcced8bfe914e0",
+        "id": "bc953e96611335a2",
         "type": "tabs",
         "children": [
           {
-            "id": "1d371700bdd4613a",
+            "id": "576c24bf3f95364b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -156,7 +156,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1d371700bdd4613a",
+  "active": "576c24bf3f95364b",
   "lastOpenFiles": [
     "Course Notes.md",
     "imgs/Pasted image 20241002143223.png",
