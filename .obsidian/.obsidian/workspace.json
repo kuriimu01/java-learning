@@ -1,26 +1,24 @@
 {
   "main": {
-    "id": "f29f955d4797f75b",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "8e91d99dcbd28114",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "33c0a0e823044195",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Java Developer Roadmap 2023-2024.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": []
-                }
+                "file": "Java/Java Roadmap 2023-2024.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Java Developer Roadmap 2023-2024"
+              "icon": "lucide-file",
+              "title": "Java Roadmap 2023-2024"
             }
           }
         ]
@@ -188,10 +186,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "33c0a0e823044195",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Java/Core/Java.md",
     "Java Developer Roadmap 2023-2024.md",
+    "Java/Core/Java.md",
     "Spring Core/Inversion of Control (IoC).md",
     "Spring Core/Spring Core.md",
     "Java/Core/Generics, Optionals..md",
