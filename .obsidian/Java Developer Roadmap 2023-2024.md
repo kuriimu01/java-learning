@@ -1,7 +1,5 @@
 ---
-
-kanban-plugin: basic
-
+kanban-plugin: board
 ---
 
 ## [[Java]]
@@ -20,32 +18,33 @@ kanban-plugin: basic
 - [x] Enumerations, Autoboxing,  Annotations
 - [x] IO Streams
 - [x] Generics, Optionals
-- [ ] Collections Framework. Array & ArrayList. Vectors, Hash-maps
+- [x] Collections Framework. Array & ArrayList. Vectors, Hash-maps
 
 
-## [[Maven]]
+## [[Spring Core]]
+
+- [ ] Configuration
+- [ ] Dependency Injection (DI)
+- [ ] Spring IOC
+- [ ] Spring AOP
+- [ ] Spring MVC
+- [ ] Annotations
+- [ ] Spring Bean Scope
 
 
+## Spring Boot
 
-## [[Spring]]
-
+- [ ] Spring Boot Starters
+- [ ] Autoconfiguration
+- [ ] Actuators
+- [ ] Embedded Server
 
 
 ## [[Hibernate]]
 
-
-
-## [[Swing]]
-
-
-
-## additional
-
-- [ ] Gradle
-- [ ] JCommander; airline
-- [ ] semantic versioning
-- [ ] Version, scripts, repository and other Properties
-- [ ] Basic SQL Syntax
+- [ ] Transactions
+- [ ] Relationships
+- [ ] Entity Lifecycle
 
 
 ## General Development Skills
@@ -57,6 +56,13 @@ kanban-plugin: basic
 - [ ] Basic Authentication, OAuth, JWT, etc
 - [ ] SOLID, YAGNI, KISS
 - [ ] Docker\ other DevOps things
+
+
+## additional
+
+- [ ] Gradle
+- [ ] JCommander; airline
+- [ ] semantic versioning
 
 
 

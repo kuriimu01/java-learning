@@ -1,4 +1,4 @@
-## Mastering Java Generics
+## Generics
 
 ---
 

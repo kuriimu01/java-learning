@@ -1,16 +1,16 @@
 {
   "settings": {
-    "migrated": 3,
+    "migrated": 6,
     "iconPacksPath": ".obsidian/icons",
     "fontSize": 16,
-    "emojiStyle": "none",
+    "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiHand",
       "TiMapHeart",
       "TiBaselineDensityMedium",
       "SiRobotframework",
-      "TiApps",
-      "SiSpring"
+      "TiApps"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -24,15 +24,21 @@
     "iconInTitleEnabled": false,
     "iconInFrontmatterEnabled": false,
     "iconsBackgroundCheckEnabled": false,
-    "iconsInNotesEnabled": true
+    "iconsInNotesEnabled": true,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
   },
   "Java": "FabJava",
   "imgs": "FarImages",
   "Java/Core": "TiBaselineDensityMedium",
   "Java/Core/Java.md": "FabJava",
   "Java Developer Roadmap 2023-2024.md": "TiMapHeart",
-  "Frameworks": "SiRobotframework",
-  "Frameworks/Maven": "SiApachemaven",
-  "Frameworks/Spring": "SiSpring",
-  "Frameworks/Swing": "TiApps"
+  "Spring Core": "SiSpring",
+  "Hibernate": "LiHand"
 }
