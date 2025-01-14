@@ -11,14 +11,16 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Java/Java Roadmap 2023-2024.md",
-                "mode": "source",
-                "source": false
+                "file": "Java Developer Roadmap 2023-2024.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
+                }
               },
-              "icon": "lucide-file",
-              "title": "Java Roadmap 2023-2024"
+              "icon": "lucide-trello",
+              "title": "Java Developer Roadmap 2023-2024"
             }
           }
         ]
@@ -190,9 +192,9 @@
   "lastOpenFiles": [
     "Java Developer Roadmap 2023-2024.md",
     "Java/Java Roadmap 2023-2024.md",
+    "Spring Core/Spring Core.md",
     "Java/Core/Java.md",
     "Spring Core/Inversion of Control (IoC).md",
-    "Spring Core/Spring Core.md",
     "Java/Core/Generics, Optionals..md",
     "Java/Core/Enumerations, Autoboxing,  Annotations.md",
     "Spring Core.md",
