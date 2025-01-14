@@ -1,5 +1,7 @@
 ---
+
 kanban-plugin: board
+
 ---
 
 ## [[Java]]
@@ -29,7 +31,7 @@ kanban-plugin: board
 - [ ] Spring AOP
 - [ ] Spring MVC
 - [ ] Annotations
-- [ ] Spring Bean Scope
+- [ ] [[Spring Bean Scope]]
 
 
 ## Spring Boot
@@ -69,6 +71,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic","show-checkboxes":true,"new-note-folder":"Java"}
+{"kanban-plugin":"board","show-checkboxes":true,"new-note-folder":"Java"}
 ```
 %%
